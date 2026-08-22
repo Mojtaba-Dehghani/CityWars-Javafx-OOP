@@ -5,7 +5,7 @@
 [![Java Version](https://img.shields.io/badge/Java-17%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![JavaFX](https://img.shields.io/badge/JavaFX-21-FF6F00?style=for-the-badge&logo=java&logoColor=white)](https://openjfx.io/)
 [![Architecture](https://img.shields.io/badge/Architecture-MVC%20%2F%20OOP-00599C?style=for-the-badge)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-[![Sharif University](https://img.shields.io/badge/Sharif%20University-CE%20Department-003366?style=for-the-badge)](http://ee.sharif.edu/)
+[![Sharif University](https://img.shields.io/badge/Sharif%20University-EE%20Department-003366?style=for-the-badge)](http://ee.sharif.edu/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 **A high-stakes, cyberpunk tactical card battler implemented with pure Object-Oriented Programming and modern JavaFX UI.**
