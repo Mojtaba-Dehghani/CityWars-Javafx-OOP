@@ -186,5 +186,5 @@ Developed as the Final Term Project for the **Object-Oriented Programming (OOP)*
 ---
 
 <div align="center">
-  <sub>Engineered with ❤️ and Java by Sharif University CE Students.</sub>
+  <sub>Engineered with ❤️ and Java by Sharif University EE Students.</sub>
 </div>
